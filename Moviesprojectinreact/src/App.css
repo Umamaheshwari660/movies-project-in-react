@@ -1,8 +1,8 @@
-body {
+/* body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   transition: background-color 0.3s, color 0.3s;
-}
+} */
 .dark-theme {
   background-color: #111;
   color: #f5f5f5;
@@ -162,6 +162,10 @@ body {
 }
 
 
+
+.app-container{
+  border: 3px solid red;
+}
 /* App.css */
 
 .hero-section {
